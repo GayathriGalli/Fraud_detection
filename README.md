@@ -25,17 +25,16 @@ A web application built using **Streamlit** to predict credit card fraud using a
 
 ## 📂 How to Run Locally
 
-**1. Clone the repository:**
-
-   ```bash
+1. Clone the repository:
+  ```bash
    git clone https://github.com/yourusername/fraud-detection-app.git
    cd fraud-detection-app
 
-**2. Install required packages:**
+2. Install required packages:
 pip install -r requirements.txt
 
-**3. Run the Streamlit app:**
+3. Run the Streamlit app:
 streamlit run app.py
 
-**4.Upload your CSV file in the app interface to start predicting frauds!**
+4.Upload your CSV file in the app interface to start predicting frauds!
 It’s clear, simple, and practical — perfect for your users!
