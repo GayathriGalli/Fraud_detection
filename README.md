@@ -34,7 +34,9 @@ A web application built using **Streamlit** to predict credit card fraud using a
 
 2. Install required packages:
 pip install -r requirements.txt
-3. Run the Streamlit app:
+
+4. Run the Streamlit app:
 streamlit run app.py
+
 4 .Upload your CSV file in the app interface to start predicting frauds!
 It’s clear, simple, and practical — perfect for your users!
